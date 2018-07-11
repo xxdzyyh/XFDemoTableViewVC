@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'XFDemoTableViewVC'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of XFDemoTableViewVC.'
+  s.summary          = '一个简单的tableViewController,用于学习和效果演示'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,15 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  一个简单的tableViewController,使用场景，点击查看效果，用于学习知识点
                        DESC
 
-  s.homepage         = 'https://github.com/xxdzyyh@163.com/XFDemoTableViewVC'
+  s.homepage         = 'https://github.com/xxdzyyh/XFDemoTableViewVC'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'xxdzyyh@163.com' => 'xxdzyyh@163.com' }
-  s.source           = { :git => 'https://github.com/xxdzyyh@163.com/XFDemoTableViewVC.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => 'https://github.com/xxdzyyh/XFDemoTableViewVC.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
 

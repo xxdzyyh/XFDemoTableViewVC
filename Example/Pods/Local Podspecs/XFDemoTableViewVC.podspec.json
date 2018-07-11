@@ -1,0 +1,22 @@
+{
+  "name": "XFDemoTableViewVC",
+  "version": "0.1.0",
+  "summary": "A short description of XFDemoTableViewVC.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xxdzyyh@163.com/XFDemoTableViewVC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xxdzyyh@163.com": "xxdzyyh@163.com"
+  },
+  "source": {
+    "git": "https://github.com/xxdzyyh@163.com/XFDemoTableViewVC.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XFDemoTableViewVC/Classes/**/*"
+}

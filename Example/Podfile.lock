@@ -1,0 +1,16 @@
+PODS:
+  - XFDemoTableViewVC (0.1.0)
+
+DEPENDENCIES:
+  - XFDemoTableViewVC (from `../`)
+
+EXTERNAL SOURCES:
+  XFDemoTableViewVC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XFDemoTableViewVC: dfb1b054b830184aac91e47addc87384ad2ad523
+
+PODFILE CHECKSUM: b4dd847b0e34e0c066dd2cddb07fa863b6a7bbd0
+
+COCOAPODS: 1.5.3
