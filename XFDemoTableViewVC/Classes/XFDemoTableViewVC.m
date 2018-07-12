@@ -6,11 +6,10 @@
 //  Copyright © 2018年 com.learn. All rights reserved.
 //
 
-#import "XFDemoTableViewVC"
+#import "XFDemoTableViewVC.h"
 #import <Masonry/Masonry.h>
 
-@interface XFDemoTableViewVC () <UITableViewDelegate,UITableViewDataSource>
-
+@interface XFDemoTableViewVC ()
 @end
 
 @implementation XFDemoTableViewVC

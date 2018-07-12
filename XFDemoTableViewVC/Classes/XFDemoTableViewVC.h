@@ -18,7 +18,8 @@
     }
  ]
  */
-@interface XFDemoTableViewVC : UIViewController
+@interface XFDemoTableViewVC : UIViewController <UITableViewDelegate,UITableViewDataSource>
+
 
 @property (strong, nonatomic) UITableView *tableView;
 @property (strong, nonatomic) NSArray *dataSources;

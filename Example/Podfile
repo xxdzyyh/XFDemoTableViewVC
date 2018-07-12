@@ -1,6 +1,0 @@
-use_frameworks!
-target 'XFDemoTableViewVC_Tests' do
-  pod 'XFDemoTableViewVC', :path => '../'
-  
-  
-end

@@ -1,6 +1,0 @@
-framework module XFDemoTableViewVC {
-  umbrella header "XFDemoTableViewVC-umbrella.h"
-
-  export *
-  module * { export * }
-}
